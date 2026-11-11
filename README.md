@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
