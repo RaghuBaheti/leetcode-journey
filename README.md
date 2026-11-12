@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0905-sort-array-by-parity) |
 ## Enumeration
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
