@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RaghuBaheti/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
