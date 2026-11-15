@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0844-backspace-string-compare) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RaghuBaheti/leetcode-journey/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RaghuBaheti/leetcode-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
